@@ -7,7 +7,7 @@ void divide(int,int);
 int main(){
     int a,b;
     int select;
-    printf("Enter number: \na = ");s
+    printf("Enter number: \na = ");
     scanf("%d",&a);
     printf("\nb = ");
     scanf("%d",&b);
