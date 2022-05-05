@@ -1,5 +1,7 @@
 # 1CS1_Homework by Oudomphon SAYAVONG
 
+HW 03 : Create External Storage Class
+
 HW 04 : How to use operators
 
 HW 05 : Show school grade using if case
