@@ -1,5 +1,7 @@
 # 1CS1_Homework by Oudomphon SAYAVONG
 
+HW 02 : Show ASCII Code
+
 HW 03 : Create External Storage Class
 
 HW 04 : How to use operators
