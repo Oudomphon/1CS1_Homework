@@ -1,4 +1,5 @@
 # 1CS1_Homework by Oudomphon SAYAVONG
+HW 01 : Calculate Area of Shapes
 
 HW 02 : Show ASCII Code
 
