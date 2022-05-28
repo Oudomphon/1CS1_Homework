@@ -14,3 +14,5 @@ HW 06 : Example of break, continue and goto
 HW 07 : Declare functions to use + - x ÷
 
 HW 08 : Use Array to list name and number of classmates
+
+HW 09 : Average of classmate's age
